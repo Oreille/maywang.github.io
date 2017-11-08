@@ -12,8 +12,8 @@
 
 ## **最后我成了这样**
 
-- 1. 进入首页<a href='https://runcoding.github.io'>runcoding.github.io</a>
-- 2. 进入<a href='https://runcoding.github.io/learn-java/wiki/index.html'>Java世界</a>
+- 1. 进入首页<a href='https://oreille.github.io'>oreille.github.io</a>
+- 2. 进入<a href='https://oreille.github.io/learn-java/wiki/index.html'>Java世界</a>
 
 ## **本地启动服务**
 ### 安装node
@@ -39,4 +39,4 @@ https://github.com/runcoding/runcoding-heroku
 - mongodb https://mongolab.com
 
 
-https://runcoding@github.com/runcoding/runcoding.github.io.git
+https://runcoding@github.com/runcoding/oreille.github.io.git

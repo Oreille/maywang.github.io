@@ -76,7 +76,7 @@
                 var footer = [
                     '<hr/>',
                     '<footer>',
-                    '<span>本服务由<a href="https://runcoding.github.io" target="_blank">&copy; RunningGhost</a>提供支持.</span>',
+                    '<span>本服务由<a href="https://oreille.github.io" target="_blank">&copy; RunningGhost</a>提供支持.</span>',
                     '</footer>'
                 ].join('');
                 hook.init(function() {
@@ -85,9 +85,9 @@
 
                 hook.beforeEach(function(md) {
                     // 每次开始解析 Markdown 内容时调用
-                    var url = 'https://github.com/runcoding/runcoding.github.io/edit/master/wiki/zh-cn' + vm.route.file;
+                    var url = 'https://github.com/runcoding/oreille.github.io/edit/master/wiki/zh-cn' + vm.route.file;
                     var editUrl = '[编辑](' + url + ')\n';
-                    var author = '  @[联系作者](https://runcoding.github.io)';
+                    var author = '  @[联系作者](https://oreille.github.io)';
                     var dateTime = new Date().getTime();
                     var browse = '  &浏览<span class="run_coding_browse_'+dateTime+'">0</span>次';
 
