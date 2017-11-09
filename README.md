@@ -13,7 +13,6 @@
 ## **最后我成了这样**
 
 - 1. 进入首页<a href='https://oreille.github.io'>oreille.github.io</a>
-- 2. 进入<a href='https://oreille.github.io/learn-java/wiki/index.html'>Java世界</a>
 
 ## **本地启动服务**
 ### 安装node
@@ -27,16 +26,5 @@
 ###  启动项目
   node-express/bin>  supervisor www 或 node www
 ###  访问项目
- localhost:3000
+ http://localhost:3000
  
-## ***部署简单远程服务*
-### 使用heroku服务商部署
-https://dashboard.heroku.com
-### 项目
-https://github.com/runcoding/runcoding-heroku
-### 中间件
-- redis   https://app.redislabs.com
-- mongodb https://mongolab.com
-
-
-https://runcoding@github.com/runcoding/oreille.github.io.git

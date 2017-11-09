@@ -1,3 +1,3 @@
 - 这是一本书
-  - [](/information/java/java_base)
+  - [明日的记忆](/books/明日的记忆.md)
   
