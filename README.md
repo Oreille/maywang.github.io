@@ -13,6 +13,10 @@
 
 - 1. 进入首页<a href='https://oreille.github.io'>oreille.github.io</a>
 
+git 客户端
+https://desktop.github.com/
+
+
 ## **本地启动服务**
 ### 安装node
 - 下载：                         https://nodejs.org/en/download/ 
