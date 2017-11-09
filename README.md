@@ -23,6 +23,9 @@
 ###  进入node-express文件夹 cd node-express
 - 安装依赖 cnpm install  
 ###  启动项目
+  进入run文件夹> cd  run
+  mac系统输入命令   ./run-node-express.sh
+  windows系统命令  run-node-express.bat
   node-express/bin>  supervisor www 或 node www
 ###  访问项目
  http://localhost:3000
