@@ -13,8 +13,15 @@
 
 - 1. 进入首页<a href='https://oreille.github.io'>oreille.github.io</a>
 
+安装 sublime text 3
+安装 sublime text 3 Markdown 插件：https://github.com/SublimeText-Markdown/MarkdownEditing
+
 git 客户端
 https://desktop.github.com/
+
+git config --global user.name "王晓霞"
+git config --global user.email "maywang05@126.com"
+
 
 
 ## **本地启动服务**
