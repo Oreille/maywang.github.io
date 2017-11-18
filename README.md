@@ -19,16 +19,16 @@
 ### git 客户端
 https://desktop.github.com/
 
-git config --global user.name "王晓霞"
-git config --global user.email "maywang05@126.com"
+- git config --global user.name "王晓霞"
+- git config --global user.email "maywang05@126.com"
 
 
 ## **本地启动服务**
 ### 安装node
 - 下载：                         https://nodejs.org/en/download/ 
-- 安装淘宝npm：                   npm install -g cnpm --registry=https://registry.npm.taobao.org
-- 安装supervisor（类似热加载）：   cnpm -g install supervisor
-- 安装express(不是必须):          cnpm install -g express-generator@4
+- 安装淘宝npm：                  sudo npm install -g cnpm --registry=https://registry.npm.taobao.org
+- 安装supervisor（类似热加载）：  sudo cnpm -g install supervisor
+- 安装express(不是必须):         sudo cnpm install -g express-generator@4
 - 构建node-express项目(不是必须)： express node-express
 ###  进入node-express文件夹 cd node-express
 - 安装依赖 cnpm install  
@@ -39,4 +39,15 @@ git config --global user.email "maywang05@126.com"
   node-express/bin>  supervisor www 或 node www
 ###  访问项目
  http://localhost:3000
+
+ control + c 停止服务
  
+ 
+### 本地启动
+#### 第一步: 点击软件下方的 terminal
+#### 第二步：输入 supervisor node-express/bin/www
+
+### 新增本地文件加入版本控制
+#### 在对应的文件加或文件上快捷键 option+command+a  (文件由红色变绿色)
+
+### 将本地文件发布到远程服务器
