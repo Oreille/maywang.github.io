@@ -6,6 +6,7 @@
     
 - **知识体系**
     - [我的书架]({{baseDomain}}/bookshelf/book/index.html)
+    - [book2]({{baseDomain}}/bookshelf/book2/index.html)
     - [读过的书](information/books)
     
 - **意识体系**
