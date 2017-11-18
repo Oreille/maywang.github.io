@@ -52,3 +52,6 @@ https://desktop.github.com/
 
 ### 将本地文件发布到远程服务器
   command + k
+### 将远程服务器变更文件更新到本地
+  command + T
+
