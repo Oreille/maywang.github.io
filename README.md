@@ -52,3 +52,6 @@ https://desktop.github.com/
 
 ### 将本地文件发布到远程服务器
   command + k
+
+command + T
+
