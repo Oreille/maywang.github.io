@@ -51,3 +51,4 @@ https://desktop.github.com/
 #### 在对应的文件加或文件上快捷键 option+command+a  (文件由红色变绿色)
 
 ### 将本地文件发布到远程服务器
+  command + k
